@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" width="320" height="512">
+	<title>icon-facebook-svg</title>
+	<defs>
+		<image  width="276" height="512" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARQAAAIAAQMAAAB5EQEqAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAX19fBHDdvAAAAAJ0Uk5TAP9bkSK1AAABqElEQVR4nO3XS46DMBAEUKJZZJkjcBQfDY7GUXwElixQPCNFoxFd5XGDnI9M9ZanpLvaCLnreIX0U0vm4aOG9KgxT27pt6YcuaS/ihnTpzJKm6I9XbdmZiaUzSWVzdVhgsOksvlymJvD2HaYGcrGpsOMTYcZaJkYaJkYIGiwZTSQMjHYMpreYXAsNIPDIAFDRgeD20JDRgdDRgdDRgdDRgdDiDVs9COGnAwwLEJrWITW9A4TKpnBYRg5YGjMxtCYjaExHzB0FQdM7zChkhkqGUr2G77S/Yavfb/ha3+O4Udjv+krmfBCM7zQcPI2kznOTzGZI1/NxP/MvYMCM6Gxrw75GTDRYcayYX9lX0F62TGGtWMNmRwMI8bQlo1ZqenLYxlDb0LGRIeZHGZ0GEq2hsfjMqEc4X6TuSpvDI/5OSZWMtMLzfhhhpOPNpkjLyMjIyMjIyMj8xaTilXJ3E9s1kbN0qiZT2ziic3UqBkbNZ7vV6Pm3qhZT2yWRs18YhMbNVOjZqx4t5KRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkTmx+QadAf2zrBzQDQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer" href="#img1" x="22" y="0"/>
+</svg>
